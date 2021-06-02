@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 654b161aa03a02b41b1e27a92c546781
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MRT-Marukoias-beta
+  fontNames:
+  - MRT-Marukoias-beta
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bda6ddf991caf2c4aa57459245e6c4f2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
